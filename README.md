@@ -16,7 +16,7 @@ Thanks for your hard work everyone!
 
 ## Roles
 - Brandon @BigGlasses Brandon Project Leader
-- Allen @Apockira Allen Tester
+- Allen @Apockira Allen Tester and Coder
 - Anthony @tonyreigns Anthony Coder
 - Mikolaj @miktimes148 Mikolaj Coder
 - Alex @AutumnClouds Alex Documenter
